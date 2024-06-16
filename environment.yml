@@ -193,4 +193,6 @@ dependencies:
   - zipp=3.17.0=py39h06a4308_0
   - zlib=1.2.13=h5eee18b_1
   - zstd=1.5.5=hc292b87_2
+  - pip:
+      - prettytable==3.10.0
 prefix: /home/leviathan/anaconda3/envs/student_performance_analysis
