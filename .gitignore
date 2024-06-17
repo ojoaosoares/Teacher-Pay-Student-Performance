@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+
+data/
+
+tmp/
+
+.vscode/
+
+.db
